@@ -1,0 +1,1 @@
+# https-addons.mozilla.org-api-v4-github-validate-
